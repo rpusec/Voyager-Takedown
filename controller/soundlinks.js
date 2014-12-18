@@ -1,0 +1,11 @@
+var SOUND_PATH = "audio/sound/"
+var GUN_RICOCHET_SOUND = SOUND_PATH + "gun_ricochet.mp3";
+var BLASTER_SOUND = SOUND_PATH + "blaster.mp3";
+var TURRET_SOUND = SOUND_PATH + "turret.mp3";
+var EXPLOSION_SOUND = SOUND_PATH + "explosion.mp3";
+var ROCKET_SOUND = SOUND_PATH + "rocket.mp3";
+var FIREBALL_SOUND = SOUND_PATH + "fireball.mp3";
+var TARGETSHOT_SOUND = SOUND_PATH + "targetshot.mp3";
+var TELEPORT_SOUND = SOUND_PATH + "teleport.mp3";
+var ONFLOW_SOUND = SOUND_PATH + "onflow.mp3";
+var KEY_SOUND = SOUND_PATH + "key.mp3";
